@@ -1,1 +1,14 @@
-github: [anchalchaturvedi08]
+# This is a FUNDING.yml file for GitHub Sponsors.
+# It configures how the GitHub Sponsors button appears on your repository's README.
+
+# Optional: Specify the tier configuration file (optional).
+tier_configuration_file: tiers.yml
+
+# Optional: Customize the button placement.
+# Possible values are "badge", "popup", and "navbar".
+button_position: badge
+
+# Optional: Customize the button style.
+# Possible values are "flat" and "flat-square".
+button_style: flat
+
